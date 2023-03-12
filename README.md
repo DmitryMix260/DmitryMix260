@@ -18,4 +18,10 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi there, I'm Dmitry <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
---- :woman_technologist: About Me :
+---
+ About Me:
+I am a Fronend Developer.
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
