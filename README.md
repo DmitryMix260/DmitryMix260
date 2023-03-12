@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I`m Dmitry👋
 
 <!--
 **DmitryMix260/DmitryMix260** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,10 +16,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 -->
-
-<h1 align="center">Hi there, I'm Dmitry <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 ---
-### :hammer_and_wrench: About Me:
+### About Me:
 I am a Fronend Developer.
 
 ---
